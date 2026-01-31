@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML models (IMPORTANT)
+*.keras
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# Data
+data/
+dataset/
+archive/
+
+# OS
+.DS_Store
